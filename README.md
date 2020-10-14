@@ -1,3 +1,3 @@
-# Classifying the outcome of patients with potential Alzheimer's Disease
+# Classifying Alzheimer's Disease Patients
 
-Final year project on classifying patients that could potentially develop Alzheimer's Disease.
+Final year project on classifying the outcome of patients that could potentially develop Alzheimer's Disease.
